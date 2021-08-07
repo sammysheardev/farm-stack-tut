@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:jackmaster110/farm-stack-tut-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:jackmaster110/farm-stack-tut-backend.git
